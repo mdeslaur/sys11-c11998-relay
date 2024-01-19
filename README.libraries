@@ -1,0 +1,13 @@
+This project uses the following libraries:
+
+K10P-11D55-24.kicad_mod
+K10P-11D55-24.kicad_sym
+Molex_KK-396_5273-02A_1x02_P3.96mm_Vertical_mod.kicad_mod
+Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical_mod.kicad_mod
+
+The K10P* libraries were originally obtained from Digikey and were modified
+to make the solder pads larger.
+
+The Molex libraries are modified versions of the connectors included with
+kicad to make the solder pads larger.
+
