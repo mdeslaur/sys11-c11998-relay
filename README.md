@@ -6,7 +6,8 @@ pinball machines. The original part number is C-11998-1.
 A rendering of the PCB is available in the docs directory. The gerbers for
 JLCPCB are in the zip file in the gerbers directory.
 
-Version 1.0 of this design will be tested soon in a Williams Diner.
+This has not been tested yet. Version 1.0 of this design will be tested
+soon in a Williams Diner.
 
 Change history:  
 1.0 - Initial version  
