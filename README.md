@@ -3,6 +3,8 @@
 This is a replacement 24v relay board for use in Williams System 11
 pinball machines. The original part number is C-11998-1.
 
+It is in KiCad 7 format.
+
 ![Render of PCB](docs/sys11-c11998-relay.jpg)
 
 The gerbers for JLCPCB are in the zip file in the gerbers directory.
